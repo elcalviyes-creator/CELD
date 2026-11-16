@@ -1,0 +1,11 @@
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Domain\bin\Debug\net8.0\Celd.Domain.deps.json
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Domain\bin\Debug\net8.0\Celd.Domain.dll
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Domain\bin\Debug\net8.0\Celd.Domain.pdb
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Domain\obj\Debug\net8.0\Celd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Domain\obj\Debug\net8.0\Celd.Domain.AssemblyInfoInputs.cache
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Domain\obj\Debug\net8.0\Celd.Domain.AssemblyInfo.cs
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Domain\obj\Debug\net8.0\Celd.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Domain\obj\Debug\net8.0\Celd.Domain.dll
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Domain\obj\Debug\net8.0\refint\Celd.Domain.dll
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Domain\obj\Debug\net8.0\Celd.Domain.pdb
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Domain\obj\Debug\net8.0\ref\Celd.Domain.dll

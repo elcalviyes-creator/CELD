@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup><TargetFramework>net8.0</TargetFramework><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings></PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Celd.Application\Celd.Application.csproj" />
+    <ProjectReference Include="..\Celd.Infrastructure\Celd.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

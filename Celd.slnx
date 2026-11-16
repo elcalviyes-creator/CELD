@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Celd.Domain/Celd.Domain.csproj" />
+    <Project Path="src/Celd.Application/Celd.Application.csproj" />
+    <Project Path="src/Celd.Infrastructure/Celd.Infrastructure.csproj" />
+    <Project Path="src/Celd.Api/Celd.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Celd.Tests/Celd.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,17 @@
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\bin\Debug\net8.0\Celd.Infrastructure.deps.json
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\bin\Debug\net8.0\Celd.Infrastructure.dll
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\bin\Debug\net8.0\Celd.Infrastructure.pdb
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\bin\Debug\net8.0\Celd.Application.dll
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\bin\Debug\net8.0\Celd.Domain.dll
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\bin\Debug\net8.0\Celd.Domain.pdb
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\bin\Debug\net8.0\Celd.Application.pdb
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\obj\Debug\net8.0\Celd.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\obj\Debug\net8.0\Celd.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\obj\Debug\net8.0\Celd.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\obj\Debug\net8.0\Celd.Infrastructure.AssemblyInfo.cs
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\obj\Debug\net8.0\Celd.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\obj\Debug\net8.0\Celd.Inf.5E8EEF53.Up2Date
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\obj\Debug\net8.0\Celd.Infrastructure.dll
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\obj\Debug\net8.0\refint\Celd.Infrastructure.dll
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\obj\Debug\net8.0\Celd.Infrastructure.pdb
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Infrastructure\obj\Debug\net8.0\ref\Celd.Infrastructure.dll

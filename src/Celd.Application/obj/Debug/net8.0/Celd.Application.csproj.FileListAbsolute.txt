@@ -1,0 +1,15 @@
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\bin\Debug\net8.0\Celd.Application.deps.json
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\bin\Debug\net8.0\Celd.Application.dll
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\bin\Debug\net8.0\Celd.Application.pdb
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\bin\Debug\net8.0\Celd.Domain.dll
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\bin\Debug\net8.0\Celd.Domain.pdb
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\obj\Debug\net8.0\Celd.Application.csproj.AssemblyReference.cache
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\obj\Debug\net8.0\Celd.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\obj\Debug\net8.0\Celd.Application.AssemblyInfoInputs.cache
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\obj\Debug\net8.0\Celd.Application.AssemblyInfo.cs
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\obj\Debug\net8.0\Celd.Application.csproj.CoreCompileInputs.cache
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\obj\Debug\net8.0\Celd.App.F3D1F097.Up2Date
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\obj\Debug\net8.0\Celd.Application.dll
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\obj\Debug\net8.0\refint\Celd.Application.dll
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\obj\Debug\net8.0\Celd.Application.pdb
+C:\Users\elian\Downloads\celd-layered-updated-faculty-cancel (1)\celd-layered\src\Celd.Application\obj\Debug\net8.0\ref\Celd.Application.dll
